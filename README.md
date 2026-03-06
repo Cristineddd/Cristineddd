@@ -1,55 +1,29 @@
 <h1 align="center">Hi po </h1>
 
----
+<br>
 
-<h2 align="center">⚡ Tech Stack with Claude</h2>
+<h2 align="center"> Tech Stack</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,tailwind,nodejs,python,git,github,vscode,figma,vercel,aws"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,tailwind,nodejs,python,git,github,vscode,figma,vercel,aws" />
 
 </div>
 
----
+<br>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center"> GitHub Stats</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Cristineddd&show_icons=true&theme=tokyonight&border_radius=10"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cristineddd&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristineddd&layout=compact&theme=tokyonight&border_radius=10"/>
-
-<img src="https://streak-stats.demolab.com?user=Cristineddd&theme=tokyonight&border_radius=10"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristineddd&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
 
----
-
-<h2 align="center">🏆 Achievements</h2>
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Cristineddd&theme=tokyonight&margin-w=10&margin-h=10"/>
-
-</div>
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Cristineddd/Cristineddd/output/snake.svg"/>
-
-</div>
-
----
-
-<h3 align="center">✨ Thanks for visiting my profile</h3>
-
-<div align="center">
-
-⭐ Star some repositories if you like them!
+<img height="165" src="https://streak-stats.demolab.com?user=Cristineddd&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
