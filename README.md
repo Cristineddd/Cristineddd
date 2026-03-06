@@ -1,42 +1,75 @@
-<h1 align="center">Hi po</h1>
-
-###
+<h1 align="center">Hi po </h1>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=IT+Student;Vibe+Coding+Enjoyer;Building+Cool+Systems;Learning+Everyday+🚀"/>
+
 </div>
 
-###
+---
+
+<h2 align="center">🎧 Vibe Coding</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+
+💻 VS Code  
+🎧 Music On  
+☕ Coffee Ready  
+🌙 Late Night Coding  
+🚀 Deploy and Pray  
+
 </div>
 
-###
+---
+
+<h2 align="center">⚡ Tech Stack</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,tailwind,nodejs,python,git,github,vscode,figma,vercel,aws"/>
+
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+<h2 align="center">📊 GitHub Stats</h2>
 
-###
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Cristineddd&show_icons=true&theme=tokyonight&border_radius=10"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristineddd&layout=compact&theme=tokyonight&border_radius=10"/>
+
+<img src="https://streak-stats.demolab.com?user=Cristineddd&theme=tokyonight&border_radius=10"/>
+
+</div>
+
+---
+
+<h2 align="center">🏆 Achievements</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Cristineddd&theme=tokyonight&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Cristineddd/Cristineddd/output/snake.svg"/>
+
+</div>
+
+---
+
+<h3 align="center">✨ Thanks for visiting my profile</h3>
+
+<div align="center">
+
+⭐ Star some repositories if you like them!
+
+</div>
