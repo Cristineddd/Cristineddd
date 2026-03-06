@@ -2,7 +2,7 @@
 
 <br>
 
-<h2 align="center"> Tech Stack</h2>
+<h2 align="center"> Tech Stack namin ni claude</h2>
 
 <div align="center">
 
